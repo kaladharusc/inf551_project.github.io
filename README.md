@@ -1,1 +1,1 @@
-# inf551_project.github.io
+# inf551_project

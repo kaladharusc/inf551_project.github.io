@@ -1,0 +1,6 @@
+.filters {
+    background-color: #e8e8e8;
+}
+.filters > select, .filters > input {
+    margin-top: 20px;
+}
